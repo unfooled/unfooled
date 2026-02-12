@@ -46,9 +46,37 @@ check out what i've been working on below
 </div>
 </details>
 
+<h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
+
+<p>
+<img src="contact_pic.jpg" 
+  align="left" 
+  width="300px" 
+  height="auto">
+
+<br><br><br><br>
+
+feel free to reach out
+<br>
+just poke me again if i forget to reply ( ᵕ ‿‿ ᵕ )
+<br>
+<br>
+✧˖°.
+<br>
 <br>
 
-<h2 align="center"> currently listening to </h2>
+<a href="https://tiktok.com/@skiesfr" target="_blank">
+  <img src="https://img.shields.io/badge/%40skiesfr-white?style=for-the-badge&logo=tiktok&logoColor=000000&logoSize=auto&labelColor=d4b5f0" alt="TikTok Badge"/>
+</a>
+<a href="https://discord.com/users/skiesfr" target="_blank">
+  <img src="https://img.shields.io/badge/skiesfr-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=d4b5f0" alt="Discord Badge"/>
+</a>
+
+</p>
+
+<br clear="left"/>
+
+<h2 align="center"> 🇨‌🇺‌🇷‌🇷‌🇪‌🇳‌🇹‌🇱‌🇾‌ 🇱‌🇮‌🇸‌🇹‌🇪‌🇳‌🇮‌🇳‌🇬‌ 🇹‌🇴‌ </h2>
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
@@ -58,36 +86,5 @@ check out what i've been working on below
     />
   </a>
 </div>
-
-<br>
-
-<h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
-
-<div align="center">
-  <img src="contact_pic.jpg" 
-    align="left" 
-    width = 300px 
-    height = auto>
-</div>
-<br>
-
-<p align="center">
-  feel free to reach out
-  <br>
-  just poke me again if i forget to reply ( ᵕ ‿‿ ᵕ )
-  <br>
-  <br>
-  ✧˖°.
-  <br>
-</p>
-
-<p align="center">
-<a href="https://tiktok.com/@skiesfr" target="_blank">
-  <img src="https://img.shields.io/badge/%40skiesfr-white?style=for-the-badge&logo=tiktok&logoColor=000000&logoSize=auto&labelColor=d4b5f0" alt="TikTok Badge"/>
-</a>
-<a href="https://discord.com/users/skiesfr" target="_blank">
-  <img src="https://img.shields.io/badge/skiesfr-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=d4b5f0" alt="Discord Badge"/>
-</a>
-</p>
 </div>
 <br>
