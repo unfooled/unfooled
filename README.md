@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=unfooled's+page)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=unfooled's+page)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unfooled&color=9D7FEA&style=for-the-badge">
@@ -21,9 +25,9 @@ unfooled@github
 
 <br>
 
-<h2 align="center"> my repos </h2>
+<h2 align="center"> 🇲‌🇾‌ 🇵‌🇷‌🇴‌🇯‌🇪‌🇨‌🇹‌🇸‌ </h2>
 <p align="center">
-  <img src="rukia_repos.gif" style="max-width: 100%;">
+  <img src="rukia_repos.gif" width="600" style="max-width: 100%;">
 </p>
 
 <p align="center">
@@ -32,8 +36,14 @@ check out what i've been working on below
 
 <details>
 <summary>github stats</summary>
+<br>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=unfooled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&icon_color=9D7FEA&text_color=a9b1d6">
+</div>
+<br>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfooled&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&text_color=a9b1d6">
+</div>
 </details>
 
 <br>
@@ -51,7 +61,7 @@ check out what i've been working on below
 
 <br>
 
-<h2 align="center"> contact me </h2>
+<h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
 
 <div align="center">
   <img src="contact_pic.jpg" 
