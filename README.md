@@ -16,7 +16,7 @@ unfooled@github
 📍 portuguese
 💻 macbook pro m1 2020
 🐍 i like python ig
-🎯 just learning and building random stuff                                                                                                shhhh
+🎯 just learning and building random stuff                                                                                   shhh
 🌙 coding when i feel like it
    i like to play games and im lazy
    i love larping
