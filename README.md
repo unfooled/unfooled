@@ -15,6 +15,8 @@ unfooled@github
 🐍 i like python ig
 🎯 just learning and building random stuff
 🌙 coding when i feel like it
+   i like to play games and im lazy
+   i love larping
 ```
 </p>
 
