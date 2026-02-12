@@ -68,7 +68,7 @@ GitHub stats in collapsible section
 <p align="center">
   feel free to reach out
   <br>
-  just poke me again if i forget to reply ( ᵕ ‿‿ ᵕ )
+  if i dont respond send a message again i forget
   <br>
   <br>
   ✧˖°.
