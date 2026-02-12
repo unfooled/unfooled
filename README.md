@@ -10,12 +10,11 @@
 ```
 unfooled@github
 -------------------------
-📍 portugal
+📍 portuguese
 💻 macbook pro m1 2020
-🐍 python enthusiast
+🐍 i like python ig
 🎯 just learning and building random stuff
 🌙 coding when i feel like it
-✨ open to anything
 ```
 </p>
 
