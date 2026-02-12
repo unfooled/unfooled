@@ -26,18 +26,6 @@ unfooled@github
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <!---
 Show GitHub Activities
