@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=unfooled's+page)](https://git.io/typing-svg)
 
+<!---
+Show profile views
+-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unfooled&color=9D7FEA&style=for-the-badge">
 </p> <br>
@@ -22,15 +25,21 @@ unfooled@github
 
 <br>
 
+<!---
+Show GitHub Activities
+-->
+
 <h2 align="center"> 🇲‌🇾‌ 🇵‌🇷‌🇴‌🇯‌🇪‌🇨‌🇹‌🇸‌ </h2>
 <p align="center">
   <img src="assets/rukia_repos.gif" style="max-width: 100%;">
 </p>
-
 <p align="center">
 check out what i've been working on below
 </p>
 
+<!---
+GitHub stats in collapsible section
+-->
 <details>
 <summary>github stats</summary>
 <br>
@@ -75,6 +84,9 @@ check out what i've been working on below
 </div>
 <br>
 
+<!---
+Show spotify stats
+-->
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
   <img 
