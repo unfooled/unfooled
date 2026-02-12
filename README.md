@@ -21,7 +21,7 @@ check out my repos below
 <details>
 <summary>github stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=unfooled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&icon_color=9D7FEA&text_color=a9b1d6">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unfooled&theme=tokyonight&hide_border=true&background=1a1b27&stroke=9D7FEA&ring=9D7FEA&fire=bb9af7&currStreakLabel=9D7FEA">
+<img src="https://streak-stats.demolab.com/?user=unfooled&theme=tokyonight&hide_border=true&background=1a1b27&stroke=9D7FEA&ring=9D7FEA&fire=bb9af7&currStreakLabel=9D7FEA">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfooled&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&text_color=a9b1d6">
 </details>
 
