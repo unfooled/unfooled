@@ -1,33 +1,83 @@
-![Banner](github_banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=unfooled's+page)](https://git.io/typing-svg)
 
-### hey there
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=unfooled&color=9D7FEA&style=for-the-badge">
+</p> <br>
 
-i'm unfooled, coding for fun from portugal
+<p>
+<img align="left" src="profile_pic.jpg" width="300" /> 
 
-just learning python and building random stuff when i feel like it
+```
+unfooled@github
+-------------------------
+📍 portugal
+💻 macbook pro m1 2020
+🐍 python enthusiast
+🎯 just learning and building random stuff
+🌙 coding when i feel like it
+✨ open to anything
+```
+</p>
 
-currently learning:
-<br><br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
-my setup:
-<br><br>
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h2 align="center"> my repos </h2>
+<p align="center">
+  <img src="rukia_repos.gif" style="max-width: 100%;">
+</p>
 
-check out my repos below
+<p align="center">
+check out what i've been working on below
+</p>
 
 <details>
 <summary>github stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=unfooled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&icon_color=9D7FEA&text_color=a9b1d6">
-<img src="https://streak-stats.demolab.com/?user=unfooled&theme=tokyonight&hide_border=true&background=1a1b27&stroke=9D7FEA&ring=9D7FEA&fire=bb9af7&currStreakLabel=9D7FEA">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfooled&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&text_color=a9b1d6">
 </details>
 
 <br>
 
-contact me if you want
-<br><br>
-<a href="https://tiktok.com/@skiesfr" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40skiesfr-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href="https://discord.com/users/skiesfr" target="_blank"><img src="https://img.shields.io/badge/Discord-skiesfr-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<h2 align="center"> currently listening to </h2>
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false&bar_color=9d7fea&bar_color_cover=true" 
+    alt="spotify card"
+    width="400"
+    />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center"> contact me </h2>
+
+<div align="center">
+  <img src="contact_pic.jpg" 
+    align="left" 
+    width = 300px 
+    height = auto>
+</div>
+<br>
+
+<p align="center">
+  feel free to reach out
+  <br>
+  just poke me again if i forget to reply ( ᵕ ‿‿ ᵕ )
+  <br>
+  <br>
+  ✧˖°.
+  <br>
+</p>
+
+<p align="center">
+<a href="https://tiktok.com/@skiesfr" target="_blank">
+  <img src="https://img.shields.io/badge/%40skiesfr-white?style=for-the-badge&logo=tiktok&logoColor=000000&logoSize=auto&labelColor=d4b5f0" alt="TikTok Badge"/>
+</a>
+<a href="https://discord.com/users/skiesfr" target="_blank">
+  <img src="https://img.shields.io/badge/skiesfr-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=d4b5f0" alt="Discord Badge"/>
+</a>
+</p>
+</div>
+<br>
