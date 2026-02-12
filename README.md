@@ -90,9 +90,9 @@ GitHub stats in collapsible section
 Show spotify stats
 -->
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=11125983358">
   <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false&bar_color=9d7fea&bar_color_cover=true" 
+    src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=11125983358&hide_title=1&hide_recents=1" 
     alt="Data Card for Spotify"
     width="320"
     >
