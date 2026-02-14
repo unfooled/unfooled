@@ -45,11 +45,9 @@ GitHub stats
 <h2 align="center"> 🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇸‌🇹‌🇦‌🇹‌🇸‌ </h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=unfooled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&icon_color=9D7FEA&text_color=a9b1d6&cache_seconds=86400">
-</div>
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfooled&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&text_color=a9b1d6&cache_seconds=86400">
+    
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unfooled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&icon_color=9D7FEA&text_color=a9b1d6&card_width=400&line_height=24)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unfooled&theme=tokyonight&layout=compact&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&text_color=a9b1d6&langs_count=8)
 </div>
 
 <br>
