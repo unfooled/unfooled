@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=unfooled's+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=27&pause=1000&color=9D7FEA&center=true&vCenter=true&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++unfooled's+page+%3AD++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://git.io/typing-svg)
 
 <!---
 Show profile views with cat girl counter
