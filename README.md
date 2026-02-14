@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=unfooled's+page)](https://git.io/typing-svg)
 
 <!---
-Show profile views
+Show profile views with cat girl counter
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unfooled&color=9D7FEA&style=for-the-badge">
+  <img src="https://count.getloli.com/@unfooled?name=unfooled&theme=booru-lewd">
 </p> <br>
 
 <p>
