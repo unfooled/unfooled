@@ -40,19 +40,17 @@ check out what i've been working on below
 </p>
 
 <!---
-GitHub stats in collapsible section
+GitHub stats
 -->
-<details>
-<summary>github stats</summary>
-<br>
+<h2 align="center"> 🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇸‌🇹‌🇦‌🇹‌🇸‌ </h2>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=unfooled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&icon_color=9D7FEA&text_color=a9b1d6">
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unfooled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&icon_color=9D7FEA&text_color=a9b1d6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unfooled&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&text_color=a9b1d6)
+
 </div>
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfooled&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9D7FEA&text_color=a9b1d6">
-</div>
-</details>
 
 <br>
 
