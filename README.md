@@ -31,13 +31,13 @@ unfooled@github
 Show GitHub Activities
 -->
 
-<h2 align="center"> 🇲‌🇾‌ 🇵‌🇷‌🇴‌🇯‌🇪‌🇨‌🇹‌🇸‌ </h2>
 <p align="center">
-  <img src="assets/rukia_repos.gif" style="max-width: 100%;">
+  <img src="assets/rukia_repos.gif" style="width: 100%; max-width: 100%;">
 </p>
-<p align="center">
-check out what i've been working on below
-</p>
+
+<br>
+<br>
+<br>
 
 <!---
 GitHub stats
