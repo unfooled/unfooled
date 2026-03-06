@@ -30,6 +30,7 @@ unfooled@github
 <!---
 Show GitHub Activities
 -->
+<br> 
 
 <p align="center">
  <img src="assets/rukia_repos.gif" style="width: 100%; max-width: 100%;">
